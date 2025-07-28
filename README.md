@@ -2,7 +2,7 @@
 
 FlowForge is a powerful workflow automation platform that helps you connect your favorite tools and automate repetitive tasks. Built with modern web technologies, FlowForge provides an intuitive visual interface for creating complex automation workflows.
 
-![image](https://github.com/user-attachments/assets/74e7a049-4019-4eb6-b0d4-cd2d63f46304)
+![image](https://drive.google.com/file/d/1R2PhFMR3NB8TZdcCk1xw2jLmCty_-F28/view)
 
 ## 🚀 Features
 
