@@ -2,7 +2,8 @@
 
 FlowForge is a powerful workflow automation platform that helps you connect your favorite tools and automate repetitive tasks. Built with modern web technologies, FlowForge provides an intuitive visual interface for creating complex automation workflows.
 
-https://drive.google.com/file/d/1R2PhFMR3NB8TZdcCk1xw2jLmCty_-F28/view
+
+<img width="1024" height="1024" alt="ChatGPT Image Jul 27, 2025, 10_07_24 PM" src="https://github.com/user-attachments/assets/2e08fa57-89b8-44f9-ac31-166e3da01211" />
 
 ## 🚀 Features
 
