@@ -3,8 +3,6 @@
 FlowForge is a powerful workflow automation platform that helps you connect your favorite tools and automate repetitive tasks. Built with modern web technologies, FlowForge provides an intuitive visual interface for creating complex automation workflows.
 
 
-<img width="1024" height="1024" alt="ChatGPT Image Jul 27, 2025, 10_07_24 PM" src="https://github.com/user-attachments/assets/2e08fa57-89b8-44f9-ac31-166e3da01211" />
-
 ## 🚀 Features
 
 - **Visual Workflow Builder**: Create automation workflows with an intuitive drag-and-drop interface
@@ -154,39 +152,32 @@ export STRIPE_SECRET=your_stripe_secret_key
 
 ### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone <repository-url>
-   cd FlowForge-production
-   ```
 
-2. **Install dependencies**
+**Install dependencies**
    ```bash
    bun install
    # or
    npm install
    ```
-
-3. **Set up environment variables**
+ **Set up environment variables**
    ```bash
    cp .env.example .env
    ```
    Edit the `.env` file and fill in your specific values for the environment variables listed above.
-
-4. **Set up the database**
+ **Set up the database**
    ```bash
    bun prisma generate
    bun prisma db push
    ```
 
-5. **Run the development server**
+ **Run the development server**
    ```bash
    bun dev
    # or
    npm run dev
    ```
 
-6. **Open your browser**
+ **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000) to see FlowForge in action!
 
 ## 🔧 Development
@@ -207,12 +198,3 @@ This project uses:
 - TypeScript for type safety
 - Tailwind CSS for styling
 
-## 🤝 Contributing
-
-We welcome contributions! Please feel free to submit a Pull Request.
-
-## 🔒 Security
-
-If you discover a security vulnerability, please send an e-mail to security@FlowForge.com. All security vulnerabilities will be promptly addressed.
-# Flow_Forge
-# Flow_Forge
